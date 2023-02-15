@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -d $PATH
+num_dirs=$(echo "$path_list" | wc -l)
