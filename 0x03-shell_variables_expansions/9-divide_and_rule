@@ -1,2 +1,2 @@
 #!/bin/band
-echo $((POWER/DIVIDE)
+echo $((POWER/DIVIDE))
